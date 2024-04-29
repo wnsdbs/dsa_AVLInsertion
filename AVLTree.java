@@ -1,4 +1,3 @@
-
 public class AVLTree implements IBinaryTree<Student> {
     private AVLNode root = null;
     
